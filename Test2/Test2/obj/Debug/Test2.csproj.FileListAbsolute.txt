@@ -1,0 +1,10 @@
+C:\Users\ecalf\source\repos\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\ecalf\source\repos\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\ecalf\source\repos\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\ecalf\source\repos\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Users\ecalf\source\repos\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\ecalf\source\repos\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+C:\Users\ecalf\source\repos\Test2\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\ecalf\source\repos\Test2\Test2\obj\Debug\Test2.exe
+C:\Users\ecalf\source\repos\Test2\Test2\obj\Debug\Test2.pdb
+C:\Users\ecalf\source\repos\Test2\Test2\obj\Debug\Test2.Form1.resources
